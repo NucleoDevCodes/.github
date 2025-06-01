@@ -36,11 +36,11 @@ O **Dev Lab** é uma iniciativa voltada para:
 - Git e GitHub
 - APIs, Banco de Dados e mais...
 
-## 📚 Recursos úteis
+## 📚 Desafios
 
-- [Guia de Contribuição](CONTRIBUTING.md)
-- [Projetos em andamento](#-projetos)
-- [Dúvidas frequentes (FAQ)](#-faq)
+- [Lógica de programação]()
+- [Html ,css e javascript](https://github.com/NucleoDevCodes/Desafios-HTML)
+- [Dúvidas frequentes (FAQ)](https://github.com/NucleoDevCodes/Desafios-Logica)
 
 ## 🧠 Projetos
 
