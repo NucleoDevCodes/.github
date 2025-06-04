@@ -50,7 +50,7 @@ O **Dev Codes** é uma iniciativa voltada para:
 
 ## 📜 Código de Conduta
 
-Nossa comunidade é guiada por respeito, colaboração e inclusão. Todos os participantes devem seguir o [Código de Conduta da Dev Lab](CODE_OF_CONDUCT.md). Juntos, construímos um ambiente seguro e acolhedor para todos.
+Nossa comunidade é guiada por respeito, colaboração e inclusão. Todos os participantes devem seguir o [Código de Conduta da Dev Codes](CODE_OF_CONDUCT.md). Juntos, construímos um ambiente seguro e acolhedor para todos.
 
 ## 📣 Entre em contato 
 
