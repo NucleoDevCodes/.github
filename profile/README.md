@@ -1,11 +1,11 @@
-## 💻 Dev Lab - 𝗦𝘂𝗮 𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 Programação
+## 💻 Dev Codes - 𝗦𝘂𝗮 𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 Programação
 
-Bem-vindo(a) ao **Dev Lab**, a sua comunidade de programação! 🚀  
+Bem-vindo(a) ao **Dev Codes**, a sua comunidade de programação! 🚀  
 Aqui você encontra um espaço colaborativo para aprender, compartilhar e evoluir com outros(as) desenvolvedores(as), independentemente do seu nível de experiência.
 
 ## 👥 Sobre a Comunidade
 
-O **Dev Lab** é uma iniciativa voltada para:
+O **Dev Codes** é uma iniciativa voltada para:
 
 - Estudantes e entusiastas da tecnologia
 - Desenvolvedores(as) iniciantes, intermediários e experientes
@@ -60,5 +60,5 @@ Ou siga a gente nas redes sociais: [Linkedin](https://www.linkedin.com/company/1
 
 ---
 
-**Dev Lab** © 2025  
+**Dev Codes** © 2025  
 *Sua comunidade de programação. Feita por devs, para devs.*
