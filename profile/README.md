@@ -56,7 +56,7 @@ Nossa comunidade é guiada por respeito, colaboração e inclusão. Todos os par
 
 Tem sugestões , quer conversar com a equipe ou fazer parte dela ?  
 Nossa comunidade: [Discord](https://discord.gg/YgVxSX8PVr)  
-Ou siga a gente nas redes sociais: [Linkedin](https://www.linkedin.com/company/107295032/admin/dashboard/)
+Ou siga a gente nas redes sociais: [Linkedin](https://www.linkedin.com/company/nucleo-dev-codes/)
 
 ---
 
